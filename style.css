@@ -1,0 +1,29 @@
+.Registration-form {
+  max-width: 600px;
+  width: 100%;
+  margin: 10px auto;
+  border-radius: 50px;
+  background-color: hsl(30, 80%, 80%);
+}
+body {
+  background-color: hsl(220, 80%, 80%);
+  display: flex;
+}
+.main {
+  width: 600px;
+}
+.chk {
+  margin-left: 50px;
+  width: 60px;
+}
+
+div {
+  margin-top: 20px;
+}
+div.form-check {
+  margin-top: 0px;
+}
+.valid-feedback,
+.invalid-feedback {
+  display: none;
+}
